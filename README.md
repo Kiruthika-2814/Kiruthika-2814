@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi 👋</h1>
 
-<!--
-**Kiruthika-2814/Kiruthika-2814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">I am Kiruthika S</h2>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am an **M.Tech Computer Science Engineer** with a strong interest in **Machine Learning and Web Development**. I am passionate about solving complex problems and building efficient, user-focused solutions using modern technologies.
+
+---
+
+## 🌟 What I Do
+
+- 🔭 Currently working on **Machine Learning and Web Development projects**  
+- 👯 Looking to collaborate on **AI and ML-based projects**
+
+---
+
+## 💼 Internship Experience
+
+- **6-Month Internship** at **Sieger**  
+  Gained hands-on experience in real-world website development, strengthened problem-solving skills, and worked with industry-standard tools and professional workflows.
+
+---
