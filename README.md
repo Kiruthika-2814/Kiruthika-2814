@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I am an **M.Tech Computer Science Engineer** with a strong interest in **Machine Learning and Web Development**. I am passionate about solving complex problems and building efficient, user-focused solutions using modern technologies.
+I am an **M.Tech Computer Science Engineer** with a strong interest in **Machine Learning and Full Stack Development**. I am passionate about solving complex problems and building efficient, user-focused solutions using modern technologies.
 
 ---
 
