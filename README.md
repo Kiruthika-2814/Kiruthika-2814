@@ -1,8 +1,8 @@
-# Hi, I'm Kiruthika S 👋
+# Hi, I'm Kiruthika S 
 
-🎓 M.Tech Computer Science and Engineering Student
-💻 Full Stack Developer | Workflow Automation & Enterprise Systems
-🚀 Passionate about scalable applications, enterprise workflows, and modern software engineering
+M.Tech Computer Science and Engineering Student
+Full Stack Developer | Workflow Automation & Enterprise Systems
+Passionate about scalable applications, enterprise workflows, and modern software engineering
 
 ## About Me
 
